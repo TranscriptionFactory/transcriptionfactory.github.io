@@ -34,6 +34,8 @@ github_username:  jekyll
 remote_theme: no-style-please
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
   back_home_text: ".." # customize text for homepage link in post layout
