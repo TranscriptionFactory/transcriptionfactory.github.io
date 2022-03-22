@@ -3,4 +3,4 @@ layout: page
 title: index
 ---
 
-[js_tester](docs/jstest.md)
+[js_tester](jstest.md)
