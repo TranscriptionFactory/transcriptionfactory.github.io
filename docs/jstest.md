@@ -8,18 +8,10 @@ permalink: /jstest/
   <html>
     <head>
       <style>
-        html, body {
-            height: 100%;
-        }
-
-        html {
-            display: table;
-            margin: auto;
-        }
-
         body {
             display: table-cell;
             vertical-align: middle;
+            margin: auto;
         }      
       </style>
       <script src="https://cdn.jsdelivr.net/npm/p5@1.4.1/lib/p5.js"></script>
