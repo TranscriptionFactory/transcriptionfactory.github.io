@@ -4,7 +4,6 @@ title: jstest
 permalink: /jstest/
 ---
 
-<!DOCTYPE html>
 <html>
 <style>
 #myContainer {
