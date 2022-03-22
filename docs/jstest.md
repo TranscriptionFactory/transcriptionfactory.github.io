@@ -30,7 +30,7 @@ permalink: /jstest/
 </div>
 
 <script type = "text/javascript" src = "assets/movingBox.js">
-button1.onclick = myMove((jstest.md).document);
+button1.onclick = myMove();
 </script>
 
 </body>
