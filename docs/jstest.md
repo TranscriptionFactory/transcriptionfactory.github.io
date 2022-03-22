@@ -9,7 +9,7 @@ permalink: /jstest/
       <style>
     body
     {
-        width:80%;
+        width:50%;
         margin-left:auto;
         margin-right:auto;
     }     
