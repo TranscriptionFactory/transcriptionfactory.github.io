@@ -7,8 +7,7 @@ permalink: /jstest/
 <html>
 
 
-<script type = "text/javascript" src = "assets/movingBox.js">
-</script>
+<script src = "../assets/movingBox.js"></script>
 
 </html>
 
