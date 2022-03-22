@@ -1,6 +1,6 @@
 var id = null;
-function myMove() {
-  var elem = document.getElementById("myAnimation");   
+function myMove(docID) {
+  var elem = docID.getElementById("myAnimation");   
   var pos = 0;
   clearInterval(id);
   id = setInterval(frame, 10);
