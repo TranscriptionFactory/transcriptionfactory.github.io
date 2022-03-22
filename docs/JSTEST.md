@@ -1,6 +1,6 @@
 layout: page
 title: "JS Test"
-permalink: /jstest/
+permalink: /jtest/
 
 <!DOCTYPE html>
 <html>
