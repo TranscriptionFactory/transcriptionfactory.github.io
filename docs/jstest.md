@@ -4,10 +4,24 @@ title: jstest
 permalink: /jstest/
 ---
 
-<center>
+<!DOCTYPE html>
   <html>
-    <div align = "center">
     <head>
+      <style>
+        html, body {
+            height: 100%;
+        }
+
+        html {
+            display: table;
+            margin: auto;
+        }
+
+        body {
+            display: table-cell;
+            vertical-align: middle;
+        }      
+      </style>
       <script src="https://cdn.jsdelivr.net/npm/p5@1.4.1/lib/p5.js"></script>
       <script src="{{ site.baseurl }}/assets/sketch.js"></script>
     </head>
@@ -15,6 +29,4 @@ permalink: /jstest/
       <main>
       </main>
     </body>
-    </div>
   </html>
-</center>
