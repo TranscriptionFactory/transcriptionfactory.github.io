@@ -7,12 +7,14 @@ permalink: /jstest/
   <html>
     <head>
       <style>
-    body
-    {
-        width:50%;
-        margin-left:auto;
-        margin-right:auto;
-    }     
+	body {
+    		padding-left: 33%;
+    		padding-right: 33%;
+    		margin-left: auto;
+    		margin-right: auto;
+   		display: block;
+    		width: 35%;
+	}    
       </style>
       <script src="https://cdn.jsdelivr.net/npm/p5@1.4.1/lib/p5.js"></script>
       <script src="{{ site.baseurl }}/assets/sketch.js"></script>
