@@ -4,6 +4,7 @@ title: jstest
 permalink: /jstest/
 ---
 
+<center>
   <html>
     <head>
       <script src="https://cdn.jsdelivr.net/npm/p5@1.4.1/lib/p5.js"></script>
@@ -14,3 +15,4 @@ permalink: /jstest/
       </main>
     </body>
   </html>
+</center>
