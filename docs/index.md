@@ -3,7 +3,11 @@ layout: page
 title: index
 ---
 
-[dir]({{ site.baseurl }}/projects)
 
+[about]({{ site.baseurl }}/about)
+
+[projects]({{ site.baseurl }}/projects)
+
+[misc]({{ site.baseurl }}/misc)
 
 
