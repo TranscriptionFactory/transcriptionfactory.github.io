@@ -1,9 +1,10 @@
 ---
 layout: page
-title: cv
+title:
 permalink: /about/cv
 ---
 
-"CV"
+<embed src="../pages/Abey_Resume_Template.pdf" type="application/pdf" width = "100%" height = "800" />
 
-<embed src="https://transcriptionfactory.github.io/docs/pages/Abey_Resume_Template.pdf" type="application/pdf"/>
+
+
