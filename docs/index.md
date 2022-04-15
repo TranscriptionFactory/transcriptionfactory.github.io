@@ -6,8 +6,8 @@ title: index
 
 [about]({{ site.baseurl }}/about)
 
-[projects]({{ site.baseurl }}/projects)
+# [projects]({{ site.baseurl }}/projects)
 
-[misc]({{ site.baseurl }}/misc)
+# [misc]({{ site.baseurl }}/misc)
 
 
